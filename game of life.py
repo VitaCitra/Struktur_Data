@@ -67,3 +67,4 @@ for generasi in range(6):
     tampil(grid)
     grid = update_generasi(grid)
     time.sleep(1)
+
